@@ -13,7 +13,7 @@ def long_planeteer_calls(array)# code an argument here
   array.detect do |element|
     return false if element.length > 4
   end
-  true 
+  true
 end
 
 def find_the_cheese# code an argument here
